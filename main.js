@@ -47,17 +47,17 @@ function aplhabetkey()
 }
 function numberkey()
 {
-	img_image="numberkey.png";
+	img_image="numkey.png";
 	add();
 }
 function arrowkey()
 {
-	img_image="arrowkey.png";
+	img_image="Arrkey.png";
 	add();
 }
 function specialkey()
 {
-	img_image="specialkey.png";
+	img_image="spkey.png";
 	add();
 }
 function otherkey()
